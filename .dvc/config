@@ -1,0 +1,4 @@
+[core]
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/UBGidado/california-housing-mlflow.dvc
