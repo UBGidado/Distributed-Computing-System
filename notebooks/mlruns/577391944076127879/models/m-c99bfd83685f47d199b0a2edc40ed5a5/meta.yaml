@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/uthma/OneDrive/Desktop/Distributed Computing System/califonia_housing/notebooks/mlruns/577391944076127879/models/m-c99bfd83685f47d199b0a2edc40ed5a5/artifacts
+creation_timestamp: 1759781739137
+experiment_id: '577391944076127879'
+last_updated_timestamp: 1759781779308
+model_id: m-c99bfd83685f47d199b0a2edc40ed5a5
+model_type: null
+name: linear_regression_model
+source_run_id: f034fbb7900c4aceb2b4f6b989522328
+status: 2
+status_message: null

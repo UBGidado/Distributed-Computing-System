@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/uthma/OneDrive/Desktop/Distributed Computing System/califonia_housing/notebooks/mlruns/577391944076127879/f034fbb7900c4aceb2b4f6b989522328/artifacts
+end_time: 1759781779333
+entry_point_name: ''
+experiment_id: '577391944076127879'
+lifecycle_stage: active
+run_id: f034fbb7900c4aceb2b4f6b989522328
+run_name: Linear_Regression_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759781738649
+status: 3
+tags: []
+user_id: UBGidado
