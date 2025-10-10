@@ -52,7 +52,7 @@ class HousingFeatures(BaseModel):
 @app.get("/")
 def read_root():
     return {
-        "message": "California Housing Model API is running 🚀",
+        "message": "California Housing Model API is running",
         "start_time": start_time
     }
 
